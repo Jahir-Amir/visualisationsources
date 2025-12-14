@@ -1,0 +1,21 @@
+Region,Year,MedianAnnualPay,RegionYearKey
+London,2015,31000,London-2015
+London,2019,34000,London-2019
+London,2023,39000,London-2023
+London,2025,43000,London-2025
+England,2015,22000,England-2015
+England,2019,25000,England-2019
+England,2023,30000,England-2023
+England,2025,33000,England-2025
+East Midlands,2015,20000,East Midlands-2015
+East Midlands,2019,23000,East Midlands-2019
+East Midlands,2023,27000,East Midlands-2023
+East Midlands,2025,30000,East Midlands-2025
+North West,2015,21000,North West-2015
+North West,2019,24000,North West-2019
+North West,2023,28000,North West-2023
+North West,2025,31000,North West-2025
+Yorkshire and The Humber,2015,21000,Yorkshire and The Humber-2015
+Yorkshire and The Humber,2019,23000,Yorkshire and The Humber-2019
+Yorkshire and The Humber,2023,27000,Yorkshire and The Humber-2023
+Yorkshire and The Humber,2025,30000,Yorkshire and The Humber-2025

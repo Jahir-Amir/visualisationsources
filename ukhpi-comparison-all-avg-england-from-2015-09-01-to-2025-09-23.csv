@@ -1,0 +1,601 @@
+"Name","URI","Region GSS code","Period","Sales volume","Reporting period","Average price All property types","Pivotable date"
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2015-09,7073,monthly,156162,2015-09-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2015-09,80192,monthly,204263,2015-09-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2015-09,10686,monthly,470754,2015-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2015-09,9734,monthly,132859,2015-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2015-09,7165,monthly,136136,2015-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2015-10,8037,monthly,157700,2015-10-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2015-10,88132,monthly,204572,2015-10-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2015-10,10926,monthly,471562,2015-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2015-10,10998,monthly,132220,2015-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2015-10,8067,monthly,135844,2015-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2015-11,7281,monthly,158364,2015-11-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2015-11,78861,monthly,206293,2015-11-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2015-11,9752,monthly,476915,2015-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2015-11,9764,monthly,132916,2015-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2015-11,7271,monthly,136513,2015-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2015-12,7640,monthly,158962,2015-12-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2015-12,80366,monthly,207315,2015-12-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2015-12,9700,monthly,481806,2015-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2015-12,9806,monthly,132950,2015-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2015-12,7426,monthly,136979,2015-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-01,5414,monthly,158831,2016-01-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-01,59992,monthly,208050,2016-01-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-01,7927,monthly,489741,2016-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-01,7255,monthly,133204,2016-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-01,5378,monthly,136097,2016-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-02,5805,monthly,158290,2016-02-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-02,65124,monthly,208301,2016-02-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-02,8208,monthly,490055,2016-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-02,8119,monthly,133083,2016-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-02,5777,monthly,136539,2016-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-03,10702,monthly,159052,2016-03-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-03,119302,monthly,210224,2016-03-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-03,17501,monthly,497430,2016-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-03,14602,monthly,131630,2016-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-03,10252,monthly,135373,2016-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-04,5087,monthly,161689,2016-04-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-04,52590,monthly,211282,2016-04-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-04,5746,monthly,493598,2016-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-04,7127,monthly,136500,2016-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-04,5329,monthly,139439,2016-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-05,5824,monthly,162514,2016-05-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-05,60179,monthly,213723,2016-05-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-05,6617,monthly,500467,2016-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-05,7780,monthly,137497,2016-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-05,5981,monthly,139973,2016-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-06,7044,monthly,163785,2016-06-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-06,74259,monthly,215668,2016-06-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-06,8464,monthly,501147,2016-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-06,9313,monthly,137892,2016-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-06,7170,monthly,141514,2016-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-07,7101,monthly,165414,2016-07-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-07,77919,monthly,217970,2016-07-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-07,8794,monthly,509080,2016-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-07,10423,monthly,139906,2016-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-07,7520,monthly,142441,2016-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-08,7540,monthly,166249,2016-08-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-08,79655,monthly,218261,2016-08-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-08,8535,monthly,505256,2016-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-08,10215,monthly,139750,2016-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-08,7748,monthly,142584,2016-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-09,7437,monthly,166849,2016-09-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-09,76114,monthly,217952,2016-09-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-09,8275,monthly,505052,2016-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-09,9874,monthly,139624,2016-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-09,7277,monthly,141674,2016-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-10,6766,monthly,166085,2016-10-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-10,70825,monthly,217098,2016-10-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-10,8100,monthly,504240,2016-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-10,9427,monthly,138036,2016-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-10,6568,monthly,141522,2016-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-11,7172,monthly,167427,2016-11-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-11,74097,monthly,218146,2016-11-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-11,8178,monthly,504074,2016-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-11,10014,monthly,139331,2016-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-11,7111,monthly,142333,2016-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2016-12,7739,monthly,168191,2016-12-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2016-12,79605,monthly,218965,2016-12-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2016-12,8460,monthly,505701,2016-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2016-12,10679,monthly,139179,2016-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2016-12,7761,monthly,143617,2016-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-01,5178,monthly,166547,2017-01-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-01,57498,monthly,218655,2017-01-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-01,6931,monthly,509175,2017-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-01,7558,monthly,139003,2017-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-01,5376,monthly,140165,2017-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-02,5420,monthly,168619,2017-02-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-02,60662,monthly,219696,2017-02-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-02,7108,monthly,510351,2017-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-02,8018,monthly,140482,2017-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-02,5946,monthly,141864,2017-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-03,6958,monthly,168470,2017-03-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-03,74386,monthly,218812,2017-03-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-03,8659,monthly,508986,2017-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-03,10049,monthly,139230,2017-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-03,7324,monthly,140865,2017-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-04,5864,monthly,171346,2017-04-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-04,62318,monthly,221891,2017-04-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-04,7120,monthly,513641,2017-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-04,8078,monthly,141652,2017-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-04,6251,monthly,144242,2017-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-05,6544,monthly,172332,2017-05-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-05,69176,monthly,223502,2017-05-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-05,7874,monthly,514831,2017-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-05,9525,monthly,142498,2017-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-05,6928,monthly,145465,2017-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-06,8030,monthly,173524,2017-06-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-06,84327,monthly,225265,2017-06-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-06,9192,monthly,514028,2017-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-06,11140,monthly,144298,2017-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-06,8581,monthly,146646,2017-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-07,7121,monthly,176382,2017-07-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-07,76993,monthly,227919,2017-07-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-07,8494,monthly,522994,2017-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-07,10112,monthly,145880,2017-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-07,7772,monthly,147317,2017-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-08,7580,monthly,175988,2017-08-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-08,82670,monthly,229074,2017-08-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-08,8921,monthly,521450,2017-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-08,10927,monthly,147268,2017-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-08,8051,monthly,148788,2017-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-09,7393,monthly,177002,2017-09-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-09,78082,monthly,228519,2017-09-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-09,8239,monthly,517969,2017-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-09,10879,monthly,146802,2017-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-09,7655,monthly,148653,2017-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-10,7433,monthly,177222,2017-10-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-10,77047,monthly,228484,2017-10-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-10,7990,monthly,515752,2017-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-10,10428,monthly,146383,2017-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-10,7820,monthly,147677,2017-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-11,7333,monthly,177154,2017-11-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-11,76788,monthly,227618,2017-11-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-11,7629,monthly,509894,2017-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-11,10652,monthly,146851,2017-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-11,7833,monthly,147857,2017-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2017-12,7401,monthly,178086,2017-12-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2017-12,76522,monthly,228837,2017-12-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2017-12,7883,monthly,510491,2017-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2017-12,10472,monthly,147837,2017-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2017-12,7722,monthly,149125,2017-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-01,5336,monthly,177732,2018-01-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-01,57138,monthly,227594,2018-01-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-01,6584,monthly,513622,2018-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-01,7548,monthly,144796,2018-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-01,5528,monthly,146727,2018-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-02,5509,monthly,180294,2018-02-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-02,58494,monthly,228471,2018-02-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-02,6386,monthly,511574,2018-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-02,8121,monthly,146586,2018-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-02,5757,monthly,146544,2018-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-03,6451,monthly,177993,2018-03-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-03,68184,monthly,226996,2018-03-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-03,7350,monthly,505683,2018-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-03,9632,monthly,144823,2018-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-03,6950,monthly,147271,2018-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-04,5709,monthly,180334,2018-04-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-04,58939,monthly,228855,2018-04-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-04,6511,monthly,510925,2018-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-04,8142,monthly,146818,2018-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-04,6050,monthly,148179,2018-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-05,6536,monthly,181826,2018-05-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-05,67590,monthly,229845,2018-05-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-05,6980,monthly,512244,2018-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-05,9330,monthly,147799,2018-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-05,6941,monthly,150166,2018-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-06,7605,monthly,182243,2018-06-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-06,79056,monthly,231277,2018-06-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-06,8135,monthly,513792,2018-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-06,10916,monthly,149186,2018-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-06,8060,monthly,151054,2018-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-07,6802,monthly,184142,2018-07-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-07,73910,monthly,234127,2018-07-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-07,8303,monthly,518923,2018-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-07,9863,monthly,151077,2018-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-07,7468,monthly,152499,2018-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-08,8115,monthly,185470,2018-08-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-08,84466,monthly,234731,2018-08-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-08,8975,monthly,513384,2018-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-08,11323,monthly,151772,2018-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-08,8480,monthly,154445,2018-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-09,6519,monthly,186856,2018-09-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-09,68839,monthly,234380,2018-09-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-09,7636,monthly,510167,2018-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-09,9316,monthly,151750,2018-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-09,6862,monthly,152649,2018-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-10,7429,monthly,184561,2018-10-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-10,76864,monthly,233916,2018-10-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-10,7956,monthly,513927,2018-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-10,10808,monthly,152467,2018-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-10,7832,monthly,152245,2018-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-11,7867,monthly,185825,2018-11-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-11,81610,monthly,233144,2018-11-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-11,8130,monthly,507814,2018-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-11,11510,monthly,151860,2018-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-11,8468,monthly,151982,2018-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2018-12,6822,monthly,184588,2018-12-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2018-12,69841,monthly,232616,2018-12-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2018-12,6957,monthly,506642,2018-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2018-12,9399,monthly,151471,2018-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2018-12,7433,monthly,152603,2018-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-01,5024,monthly,184148,2019-01-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-01,54134,monthly,230974,2019-01-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-01,6031,monthly,503232,2019-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-01,7213,monthly,150205,2019-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-01,5646,monthly,150919,2019-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-02,5498,monthly,183910,2019-02-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-02,57330,monthly,230772,2019-02-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-02,5967,monthly,498951,2019-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-02,8379,monthly,150818,2019-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-02,6203,monthly,149924,2019-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-03,6127,monthly,183521,2019-03-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-03,65206,monthly,229408,2019-03-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-03,6875,monthly,496910,2019-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-03,9346,monthly,149518,2019-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-03,6802,monthly,151324,2019-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-04,5814,monthly,184470,2019-04-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-04,60107,monthly,230994,2019-04-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-04,6063,monthly,502664,2019-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-04,8505,monthly,150992,2019-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-04,6420,monthly,152328,2019-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-05,6440,monthly,184812,2019-05-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-05,66812,monthly,231245,2019-05-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-05,6815,monthly,496339,2019-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-05,9787,monthly,152604,2019-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-05,7060,monthly,152676,2019-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-06,6759,monthly,184910,2019-06-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-06,69001,monthly,232112,2019-06-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-06,6991,monthly,503716,2019-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-06,9618,monthly,152440,2019-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-06,7222,monthly,154041,2019-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-07,6776,monthly,186307,2019-07-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-07,73613,monthly,234587,2019-07-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-07,8275,monthly,512265,2019-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-07,9847,monthly,154588,2019-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-07,7529,monthly,155294,2019-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-08,7403,monthly,188104,2019-08-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-08,78838,monthly,235298,2019-08-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-08,8797,monthly,506081,2019-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-08,10769,monthly,156053,2019-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-08,7936,monthly,155819,2019-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-09,6683,monthly,187643,2019-09-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-09,69020,monthly,235691,2019-09-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-09,7586,monthly,510810,2019-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-09,9532,monthly,155419,2019-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-09,6866,monthly,155723,2019-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-10,6992,monthly,187487,2019-10-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-10,74620,monthly,234940,2019-10-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-10,7901,monthly,506016,2019-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-10,10330,monthly,155204,2019-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-10,7618,monthly,156458,2019-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-11,7285,monthly,187649,2019-11-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-11,76702,monthly,234020,2019-11-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-11,7833,monthly,501829,2019-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-11,10721,monthly,154553,2019-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-11,7834,monthly,155187,2019-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2019-12,6548,monthly,187279,2019-12-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2019-12,70541,monthly,234237,2019-12-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2019-12,7107,monthly,512959,2019-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2019-12,9462,monthly,153685,2019-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2019-12,7313,monthly,155920,2019-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-01,5049,monthly,187868,2020-01-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-01,56603,monthly,234049,2020-01-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-01,6527,monthly,509527,2020-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-01,7795,monthly,153141,2020-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-01,5838,monthly,154883,2020-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-02,5326,monthly,186308,2020-02-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-02,56568,monthly,232955,2020-02-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-02,6465,monthly,507956,2020-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-02,7806,monthly,153325,2020-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-02,5569,monthly,154695,2020-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-03,5233,monthly,188446,2020-03-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-03,57626,monthly,235204,2020-03-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-03,6842,monthly,516654,2020-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-03,7883,monthly,155025,2020-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-03,5554,monthly,155643,2020-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-04,2128,monthly,187949,2020-04-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-04,23673,monthly,232657,2020-04-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-04,3206,monthly,509754,2020-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-04,3162,monthly,152528,2020-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-04,2341,monthly,150730,2020-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-05,3185,monthly,187382,2020-05-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-05,30798,monthly,233673,2020-05-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-05,2929,monthly,506613,2020-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-05,4431,monthly,152857,2020-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-05,3337,monthly,155276,2020-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-06,4677,monthly,191136,2020-06-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-06,46664,monthly,236731,2020-06-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-06,4511,monthly,513833,2020-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-06,6449,monthly,157055,2020-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-06,5015,monthly,158072,2020-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-07,5127,monthly,193004,2020-07-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-07,54524,monthly,239080,2020-07-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-07,5988,monthly,517966,2020-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-07,7407,monthly,159413,2020-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-07,5531,monthly,158824,2020-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-08,5292,monthly,193470,2020-08-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-08,56476,monthly,241511,2020-08-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-08,6148,monthly,523954,2020-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-08,7879,monthly,161286,2020-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-08,5861,monthly,160951,2020-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-09,5673,monthly,194142,2020-09-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-09,62864,monthly,243733,2020-09-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-09,7087,monthly,528003,2020-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-09,8791,monthly,162250,2020-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-09,6532,monthly,161730,2020-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-10,7147,monthly,196846,2020-10-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-10,77907,monthly,245090,2020-10-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-10,8083,monthly,520515,2020-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-10,10568,monthly,165484,2020-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-10,8211,monthly,164114,2020-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-11,7067,monthly,199379,2020-11-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-11,76747,monthly,247749,2020-11-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-11,7825,monthly,529444,2020-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-11,10429,monthly,166199,2020-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-11,7884,monthly,167676,2020-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2020-12,7696,monthly,201798,2020-12-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2020-12,85705,monthly,250168,2020-12-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2020-12,9201,monthly,529060,2020-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2020-12,11097,monthly,169085,2020-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2020-12,8328,monthly,168778,2020-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-01,6122,monthly,202133,2021-01-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-01,70906,monthly,249890,2021-01-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-01,8030,monthly,529101,2021-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-01,9044,monthly,170526,2021-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-01,6660,monthly,170388,2021-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-02,8032,monthly,204514,2021-02-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-02,90060,monthly,251309,2021-02-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-02,10070,monthly,525153,2021-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-02,11431,monthly,173134,2021-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-02,8404,monthly,171334,2021-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-03,10789,monthly,205588,2021-03-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-03,128525,monthly,254407,2021-03-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-03,16466,monthly,534311,2021-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-03,15003,monthly,175992,2021-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-03,11158,monthly,172745,2021-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-04,7545,monthly,202601,2021-04-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-04,82173,monthly,250703,2021-04-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-04,9151,monthly,523423,2021-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-04,10414,monthly,172587,2021-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-04,8005,monthly,169361,2021-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-05,6663,monthly,203546,2021-05-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-05,71336,monthly,251203,2021-05-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-05,7696,monthly,522672,2021-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-05,9652,monthly,172994,2021-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-05,7225,monthly,171213,2021-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-06,12713,monthly,215392,2021-06-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-06,162673,monthly,266129,2021-06-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-06,26412,monthly,538199,2021-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-06,17317,monthly,187330,2021-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-06,12697,monthly,184117,2021-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-07,5821,monthly,202813,2021-07-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-07,52302,monthly,250545,2021-07-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-07,3030,monthly,529788,2021-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-07,8974,monthly,171845,2021-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-07,6580,monthly,169009,2021-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-08,7257,monthly,209343,2021-08-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-08,71786,monthly,259193,2021-08-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-08,6063,monthly,545831,2021-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-08,10651,monthly,178467,2021-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-08,7770,monthly,174892,2021-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-09,11848,monthly,217444,2021-09-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-09,125654,monthly,268041,2021-09-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-09,12748,monthly,541876,2021-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-09,16386,monthly,187266,2021-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-09,12331,monthly,183852,2021-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-10,5187,monthly,212790,2021-10-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-10,53907,monthly,259748,2021-10-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-10,4935,monthly,539606,2021-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-10,8055,monthly,177157,2021-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-10,5880,monthly,173741,2021-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-11,6341,monthly,216112,2021-11-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-11,68044,monthly,265662,2021-11-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-11,6837,monthly,547647,2021-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-11,9761,monthly,182712,2021-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-11,6999,monthly,179074,2021-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2021-12,7198,monthly,218318,2021-12-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2021-12,76166,monthly,267793,2021-12-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2021-12,7655,monthly,547837,2021-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2021-12,10645,monthly,185573,2021-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2021-12,7645,monthly,180680,2021-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-01,5288,monthly,219956,2022-01-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-01,57602,monthly,270231,2022-01-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-01,6363,monthly,550635,2022-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-01,7910,monthly,186704,2022-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-01,5843,monthly,182226,2022-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-02,6316,monthly,221012,2022-02-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-02,66048,monthly,271265,2022-02-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-02,7143,monthly,551066,2022-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-02,8905,monthly,187066,2022-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-02,6799,monthly,183698,2022-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-03,6979,monthly,222760,2022-03-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-03,75440,monthly,272225,2022-03-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-03,8630,monthly,550480,2022-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-03,10287,monthly,187958,2022-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-03,7111,monthly,183085,2022-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-04,6550,monthly,224769,2022-04-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-04,68234,monthly,274812,2022-04-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-04,7432,monthly,554765,2022-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-04,9370,monthly,191021,2022-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-04,7018,monthly,184986,2022-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-05,6531,monthly,226878,2022-05-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-05,68223,monthly,278084,2022-05-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-05,7768,monthly,554380,2022-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-05,9159,monthly,192942,2022-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-05,6765,monthly,189205,2022-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-06,6922,monthly,231038,2022-06-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-06,71809,monthly,281116,2022-06-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-06,8528,monthly,572418,2022-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-06,9379,monthly,194417,2022-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-06,7211,monthly,190937,2022-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-07,7077,monthly,233487,2022-07-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-07,76486,monthly,286526,2022-07-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-07,9356,monthly,575261,2022-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-07,10309,monthly,199323,2022-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-07,7577,monthly,194228,2022-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-08,7176,monthly,237151,2022-08-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-08,79111,monthly,289294,2022-08-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-08,9432,monthly,581320,2022-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-08,10338,monthly,200868,2022-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-08,7673,monthly,195533,2022-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-09,7281,monthly,236940,2022-09-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-09,79500,monthly,290185,2022-09-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-09,9508,monthly,579330,2022-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-09,10294,monthly,202921,2022-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-09,7744,monthly,196752,2022-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-10,6871,monthly,237264,2022-10-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-10,75912,monthly,289993,2022-10-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-10,8976,monthly,573946,2022-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-10,9928,monthly,202008,2022-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-10,7402,monthly,197361,2022-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-11,7058,monthly,237753,2022-11-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-11,77523,monthly,290003,2022-11-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-11,8978,monthly,575480,2022-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-11,10311,monthly,202872,2022-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-11,7852,monthly,198212,2022-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2022-12,6926,monthly,237956,2022-12-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2022-12,73294,monthly,288198,2022-12-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2022-12,8125,monthly,572384,2022-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2022-12,9553,monthly,200795,2022-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2022-12,7192,monthly,197647,2022-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-01,4422,monthly,235315,2023-01-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-01,50359,monthly,285817,2023-01-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-01,6046,monthly,570869,2023-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-01,6717,monthly,197527,2023-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-01,5112,monthly,191628,2023-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-02,4557,monthly,232456,2023-02-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-02,49837,monthly,283907,2023-02-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-02,5587,monthly,563875,2023-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-02,7027,monthly,196497,2023-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-02,5012,monthly,191681,2023-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-03,5422,monthly,229868,2023-03-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-03,57529,monthly,279592,2023-03-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-03,6571,monthly,555361,2023-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-03,7884,monthly,194453,2023-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-03,5879,monthly,187293,2023-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-04,3781,monthly,230965,2023-04-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-04,41002,monthly,280054,2023-04-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-04,4330,monthly,557147,2023-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-04,5696,monthly,194385,2023-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-04,4355,monthly,190374,2023-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-05,4337,monthly,229615,2023-05-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-05,44542,monthly,279846,2023-05-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-05,4835,monthly,554900,2023-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-05,6135,monthly,196419,2023-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-05,4536,monthly,189275,2023-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-06,5402,monthly,232790,2023-06-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-06,56427,monthly,281585,2023-06-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-06,6016,monthly,556107,2023-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-06,7426,monthly,197880,2023-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-06,6118,monthly,193446,2023-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-07,4752,monthly,233810,2023-07-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-07,52068,monthly,284246,2023-07-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-07,6043,monthly,559703,2023-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-07,7032,monthly,199014,2023-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-07,5472,monthly,195102,2023-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-08,5466,monthly,235914,2023-08-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-08,59192,monthly,285690,2023-08-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-08,6988,monthly,560630,2023-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-08,7895,monthly,200408,2023-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-08,6032,monthly,197800,2023-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-09,5092,monthly,233437,2023-09-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-09,57425,monthly,284428,2023-09-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-09,6912,monthly,565702,2023-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-09,7828,monthly,200657,2023-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-09,5808,monthly,194270,2023-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-10,5190,monthly,232325,2023-10-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-10,55937,monthly,283147,2023-10-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-10,6242,monthly,555122,2023-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-10,7685,monthly,200939,2023-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-10,5717,monthly,195381,2023-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-11,5017,monthly,233029,2023-11-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-11,54315,monthly,281026,2023-11-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-11,6023,monthly,547757,2023-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-11,7363,monthly,199536,2023-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-11,5652,monthly,193998,2023-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2023-12,4986,monthly,229757,2023-12-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2023-12,51916,monthly,278664,2023-12-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2023-12,5479,monthly,549112,2023-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2023-12,6990,monthly,200245,2023-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2023-12,5446,monthly,192662,2023-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-01,3666,monthly,227053,2024-01-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-01,41790,monthly,278060,2024-01-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-01,5102,monthly,551097,2024-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-01,5688,monthly,196802,2024-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-01,4272,monthly,191618,2024-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-02,4455,monthly,227623,2024-02-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-02,47183,monthly,276935,2024-02-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-02,5582,monthly,546247,2024-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-02,6506,monthly,196304,2024-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-02,4734,monthly,191087,2024-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-03,4929,monthly,227703,2024-03-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-03,54167,monthly,276971,2024-03-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-03,5952,monthly,547437,2024-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-03,7449,monthly,198378,2024-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-03,5534,monthly,192827,2024-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-04,4550,monthly,227940,2024-04-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-04,48641,monthly,277945,2024-04-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-04,5730,monthly,548467,2024-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-04,6526,monthly,198529,2024-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-04,4804,monthly,191916,2024-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-05,5574,monthly,230613,2024-05-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-05,59419,monthly,280824,2024-05-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-05,6785,monthly,553592,2024-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-05,8186,monthly,202747,2024-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-05,6113,monthly,193994,2024-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-06,5535,monthly,228627,2024-06-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-06,57853,monthly,281611,2024-06-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-06,6287,monthly,556853,2024-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-06,7659,monthly,201998,2024-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-06,6120,monthly,197974,2024-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-07,5958,monthly,233319,2024-07-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-07,64652,monthly,284105,2024-07-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-07,7834,monthly,557831,2024-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-07,8772,monthly,203585,2024-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-07,6613,monthly,197976,2024-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-08,6592,monthly,234304,2024-08-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-08,70500,monthly,287343,2024-08-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-08,8392,monthly,567121,2024-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-08,9458,monthly,207404,2024-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-08,6997,monthly,201974,2024-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-09,5730,monthly,234852,2024-09-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-09,62093,monthly,287604,2024-09-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-09,7269,monthly,567101,2024-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-09,8346,monthly,207762,2024-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-09,6102,monthly,199005,2024-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-10,6241,monthly,236367,2024-10-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-10,70018,monthly,287868,2024-10-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-10,8505,monthly,561211,2024-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-10,9147,monthly,207973,2024-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-10,7016,monthly,200113,2024-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-11,6209,monthly,236436,2024-11-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-11,63871,monthly,287674,2024-11-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-11,6859,monthly,559777,2024-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-11,8582,monthly,208853,2024-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-11,6474,monthly,202486,2024-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2024-12,5446,monthly,238712,2024-12-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2024-12,55950,monthly,288221,2024-12-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2024-12,5863,monthly,556188,2024-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2024-12,7372,monthly,209071,2024-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2024-12,6092,monthly,202778,2024-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2025-01,4192,monthly,237578,2025-01-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2025-01,46181,monthly,288790,2025-01-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2025-01,5562,monthly,565964,2025-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2025-01,6119,monthly,209443,2025-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2025-01,4468,monthly,200636,2025-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2025-02,4751,monthly,239235,2025-02-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2025-02,51452,monthly,290322,2025-02-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2025-02,5942,monthly,561274,2025-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2025-02,6961,monthly,210118,2025-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2025-02,5110,monthly,203877,2025-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2025-03,8077,monthly,242636,2025-03-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2025-03,91864,monthly,294907,2025-03-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2025-03,12885,monthly,555285,2025-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2025-03,10969,monthly,217431,2025-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2025-03,8146,monthly,209905,2025-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2025-04,2021,monthly,234243,2025-04-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2025-04,20826,monthly,284428,2025-04-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2025-04,1824,monthly,569660,2025-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2025-04,3290,monthly,202434,2025-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2025-04,2296,monthly,197516,2025-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2025-05,3324,monthly,238083,2025-05-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2025-05,33015,monthly,287191,2025-05-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2025-05,3074,monthly,558671,2025-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2025-05,4911,monthly,206656,2025-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2025-05,3514,monthly,202129,2025-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2025-06,3494,monthly,239773,2025-06-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2025-06,35437,monthly,291551,2025-06-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2025-06,3464,monthly,561638,2025-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2025-06,4767,monthly,212012,2025-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2025-06,3748,monthly,203279,2025-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2025-07,,monthly,241831,2025-07-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2025-07,,monthly,292988,2025-07-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2025-07,,monthly,564838,2025-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2025-07,,monthly,213311,2025-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2025-07,,monthly,205459,2025-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2025-08,,monthly,244677,2025-08-01
+England,http://landregistry.data.gov.uk/id/region/england,E92000001,2025-08,,monthly,295670,2025-08-01
+London,http://landregistry.data.gov.uk/id/region/london,E12000007,2025-08,,monthly,565567,2025-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2025-08,,monthly,216789,2025-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2025-08,,monthly,207330,2025-08-01
